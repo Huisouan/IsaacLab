@@ -66,3 +66,4 @@ datasets
 
 # Tests
 tests/
+/env_isaaclab/
